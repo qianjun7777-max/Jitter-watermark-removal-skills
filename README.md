@@ -7,6 +7,7 @@ Remove jitter.video watermark from Lottie JSON files.
 Run in terminal:
 
 ```bash
+mkdir -p ~/.claude/skills
 cd ~/.claude/skills
 git clone https://github.com/qianjun7777-max/Jitter-watermark-removal-skills.git
 ```
